@@ -1,0 +1,6 @@
+check_name,row_count
+Total raw rows,199743
+Duplicate rows (scanner double-reads),796
+Missing pack scan,596
+Clock skew (pick before order),198
+Rows kept after cleaning,198154

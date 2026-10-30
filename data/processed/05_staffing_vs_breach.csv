@@ -1,0 +1,9 @@
+shift,day_type,attendance_band,site_shifts,avg_planned_hc,avg_units_per_head,avg_breach_rate_pct
+Day,Weekday,Call-out day (<88%),17,31.6,325.0,0.33
+Day,Weekday,Normal attendance,247,30.9,268.0,0.17
+Day,Weekend,Call-out day (<88%),6,27.3,341.0,0.5
+Day,Weekend,Normal attendance,102,26.1,271.0,0.07
+Night,Weekday,Call-out day (<88%),15,16.3,410.0,19.95
+Night,Weekday,Normal attendance,249,18.5,336.0,12.54
+Night,Weekend,Call-out day (<88%),3,19.3,434.0,20.81
+Night,Weekend,Normal attendance,105,15.6,340.0,13.64

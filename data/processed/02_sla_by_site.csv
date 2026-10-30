@@ -1,0 +1,13 @@
+site_id,city,state,orders,breaches,breach_rate_pct,priority_breach_rate_pct,vs_network_x,median_cycle_hours,breach_rank
+FC07,Charlotte,NC,17239,1930.0,11.2,25.65,1.94,4.03,1
+FC10,Baltimore,MD,15757,975.0,6.19,14.95,1.07,4.0,2
+FC08,Raleigh,NC,12939,764.0,5.9,14.44,1.02,3.86,3
+FC06,Savannah,GA,10924,638.0,5.84,14.71,1.01,3.81,4
+FC09,Richmond,VA,11868,670.0,5.65,13.71,0.98,3.87,5
+FC01,Jacksonville,FL,18546,1002.0,5.4,13.14,0.94,3.78,6
+FC04,Miami,FL,15105,807.0,5.34,13.67,0.93,3.84,7
+FC12,Newark,NJ,20933,1074.0,5.13,12.77,0.89,3.77,8
+FC05,Atlanta,GA,21290,1055.0,4.96,12.54,0.86,3.8,9
+FC03,Tampa,FL,16472,800.0,4.86,12.1,0.84,3.95,10
+FC11,Philadelphia,PA,19574,935.0,4.78,12.04,0.83,3.92,11
+FC02,Orlando,FL,17507,768.0,4.39,11.02,0.76,3.87,12
